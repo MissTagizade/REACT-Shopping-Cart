@@ -1,4 +1,4 @@
-import ProductData from "../productData";
+import ProductData from "../ProductData"
 import ProductItem from "./ProductItem"
 
 const Products = (props) => {
